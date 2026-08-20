@@ -1,6 +1,7 @@
+# PEMROGRAMAN VISUAL
+
 # PERTEMUAN 1
 
-# PEMROGRAMAN VISUAL
 
 ## 1. Pengertian Pemrograman Visual
 
